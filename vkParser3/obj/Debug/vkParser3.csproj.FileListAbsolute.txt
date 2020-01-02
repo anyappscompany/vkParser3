@@ -1,0 +1,15 @@
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\vkParser3.exe.config
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\vkParser3.exe
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\vkParser3.pdb
+F:\Visual Studio\Projects\vkParser3\vkParser3\obj\Debug\vkParser3.exe
+F:\Visual Studio\Projects\vkParser3\vkParser3\obj\Debug\vkParser3.pdb
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\Google.GData.Client.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\Google.GData.Extensions.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\Google.GData.YouTube.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio\Projects\vkParser3\vkParser3\obj\Debug\vkParser3.csprojResolveAssemblyReference.cache
